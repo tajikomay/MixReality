@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9D5C9234-EB04-DCB8-21DD-1E07D34E558C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e95e02b4-61a5-4fb0-a3c4-cc5ce1cb8d4f" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="185" Column="6" />
+      <File FileName="Assets/Scripts/ChickManager.cs" Line="80" Column="55" />
+      <File FileName="Assets/Scripts/ElephantManager.cs" Line="93" Column="55" />
+      <File FileName="Assets/Scripts/LionManager.cs" Line="97" Column="55" />
+      <File FileName="Assets/Scripts/GiraffeManager.cs" Line="94" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MixReality" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Material" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
